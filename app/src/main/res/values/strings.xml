@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">iRate</string>
+    <string name="powered_by">Powered by Joseph Wamulume</string>
+    <string name="logo_text">iRate</string>
+    <string name="highest_rated">Highest Rated Restaurants</string>
+    <string name="view_all">View All</string>
+    <string name="recently_added">Recently Added Restaurants</string>
+    <string name="categories">Categories</string>
+    <string name="add_rating">Add Rating</string>
+    <string name="search">Search</string>
+
+    <!-- Strings for Add Rating Page -->
+
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="restaurant_type">Restaurant Type</string>
+    <string name="date_of_visit">Date of Visit</string>
+    <string name="time_of_visit">Time of Visit</string>
+    <string name="date_time_of_visit">Date &amp; Time of Visit</string>
+    <string name="average_meal_price">Average Meal Price</string>
+    <string name="service_rating">Service Rating</string>
+    <string name="cleanliness_rating">Cleanliness Rating</string>
+    <string name="food_quality_rating">Food Quality Rating</string>
+    <string name="notes">Notes</string>
+    <string name="reporter_name">Reporter Name</string>
+    <string name="need_to_improve">Need to Improve</string>
+    <string name="okay">Okay</string>
+    <string name="good">Good</string>
+    <string name="excellent">Excellent</string>
+    <string name="submit">Submit</string>
+    <string name="image">Image</string>
+
+    <!-- Strings Rating Page -->
+
+    <string name="rating_name">Image</string>
+
+    <!-- Strings Edit Rating Page -->
+
+    <string name="edit_rating">Edit Rating</string>
+
+</resources>
